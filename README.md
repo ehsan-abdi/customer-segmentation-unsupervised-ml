@@ -59,15 +59,15 @@ Customer-level aggregation using:
 
 ---
 
-## 📊 Key Results
+## 📊 Key Results (Median Metrics)
 
-| Tier | Description            | Median CLV | Recency | Frequency | Population |
-|-----:|------------------------|-----------:|--------:|----------:|-----------:|
-| 5    | Champions              | $3,759     | 33 days | 20        | 24%        |
-| 4    | Loyal Regulars         | $1,630     | 112     | 10        | 23%        |
-| 3    | At-Risk Mid-Tier       | $1,347     | 279     | 9         | 24%        |
-| 2    | High-Ticket Lapsed     | $819       | 722     | 3         | 13%        |
-| 1    | Budget Churned         | $243       | 716     | 3         | 15%        |
+| Tier | Segment Name        | CLV        | Frequency | Recency (Days) | Avg Unit Cost | Age        | Population |
+|-----:|---------------------|-----------:|----------:|---------------:|--------------:|-----------:|-----------:|
+| 5    | Champions           | $3,759     | 20        | 33             | $79.65        | 33 yrs     | 24%        |
+| 4    | Loyal Regulars      | $1,630     | 10        | 112            | $71.42        | 58 yrs     | 23%        |
+| 3    | At-Risk Mid-Tier    | $1,347     | 9         | 279            | $70.88        | 23 yrs     | 24%        |
+| 2    | High-Ticket Lapsed  | $819       | 3         | 722            | $117.15       | 48 yrs     | 13%        |
+| 1    | Budget Churned      | $243       | 3         | 716            | $42.50        | 53 yrs     | 15%        |
 
 ---
 
